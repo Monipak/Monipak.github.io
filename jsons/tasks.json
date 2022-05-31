@@ -1,0 +1,8 @@
+[
+    {"nom":"RDV Sheldon","date":"02/06/22","categorie":"Tâche professionelle"},
+    {"nom":"RDV Bernadette","date":"03/06/22","categorie":"Tâche professionelle"},
+    {"nom":"Fête des voisins","date":"20/05/22","categorie":"Tâche partagée"},
+    {"nom":"Crémaillère","date":"12/06/22","categorie":"Tâche partagée"},
+    {"nom":"Rétrospective de Stan Lee au comic book store","date":"02/06/22","categorie":"Tâche personelle"},
+    {"nom":"Apéro au cheesecake factory","date":"14/07/22","categorie":"Tâche personelle"}
+]
