@@ -1,51 +1,61 @@
 {
 "blocks":
-	[
+	[	
+		"block":
 		{"name":"Dirt",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2f/Dirt.png",
 		"price":1,
 		"iniStock":128,
 		},
+		"block":
 		{"name":"Cobblestone",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/67/Cobblestone.png",
 		"price":2,
 		"iniStock":70,
 		},
+		"block":
 		{"name":"Iron Ingot",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Iron_Ingot_JE3_BE2.png",
 		"price":5,
 		"iniStock":40,
 		},
+		"block":
 		{"name":"Gold Ingot",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8a/Gold_Ingot_JE4_BE2.png/",
 		"price":9,
 		"iniStock":30,
 		},
+		"block":
 		{"name":"Diamond",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_JE3_BE3.png",
 		"price":13,
 		"iniStock":20,
 		},
+		"block":
 		{"name":"Netherite Ingot",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Netherite_Ingot_JE1_BE2.png",
 		"price":20,
 		"iniStock":9,
 		},
+		"block":
 		{"name":"Shovel",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ec/Diamond_Shovel_JE3_BE3.png",
 		"price":15,
 		"iniStock":30,
 		},
+		"block":
 		{"name":"Pickaxe",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e7/Diamond_Pickaxe_JE3_BE3.png",
 		"price":41,
 		"iniStock":5,
 		},
+		"block":
 		{"name":"Axe",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/40/Diamond_Axe_JE3_BE3.png",
 		"price":41,
 		"iniStock":9,
 		},
+		"block":
 		{"name":"Sword",
 		"image":"https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/44/Diamond_Sword_JE3_BE3.png",
 		"price":28,
