@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: rgb(241, 241, 241);
+  margin: 0;
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-columns: 40px auto 40px;
+  grid-template-rows: 50px 30px auto 60px;
+}
+nav {
+  background-color: rgb(55, 178, 209);
+  height: 100%;
+  grid-column: 1 / 4;
+  grid-row: 1;
+}
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+#container {
+  grid-column: 2;
+  grid-row: 3;
+}
+
+#search-and-button {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+#search-and-button input {
+  height: 25px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#search-and-button button {
+  height: 35px;
+  padding: 0 12px 0 12px;
+  margin-right: 20px;
+  border-style: outset;
+  background-color: rgb(200, 200, 200);
+  border-radius: 5px;
+}
+
+#search-and-button button:hover {
+  background-color: rgb(255, 255, 255);
+}
+#search-and-button button:active {
+  background-color: rgb(230, 230, 230);
+}
+
+#game {
+  grid-row: 3;
+  grid-column: 2;
+  display: inline-block;
+}
+#game * {
+  margin: 0 auto 0 auto;
+  width: fit-content;
+}

@@ -1,0 +1,29 @@
+#red_target {
+  position: relative;
+  text-align: center;
+  background-color: red;
+  height: 250px;
+  width: 250px;
+  margin: 0 auto 0 auto;
+  color : black;
+  text-shadow: 1px;
+  font-size: 40px;
+}
+
+#blue_target {
+  position: absolute;
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+  top: 50px;
+  left: 50px;
+}
+
+#yellow_target {
+  position: absolute;
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  top: 50px;
+  left: 50px;
+}
